@@ -1,0 +1,22 @@
+{
+  "Mã thủ tục": "1.010039",
+  "Số quyết định": "320/QĐ-BCA",
+  "Tỉnh thực hiện (Nếu có)": "Thủ tục cấp Bộ",
+  "Tên thủ tục": "Điều chỉnh thông tin về cư trú trong Cơ sở dữ liệu về cư trú",
+  "Cấp thực hiện": "Cấp Xã",
+  "Loại thủ tục": "TTHC được luật giao quy định chi tiết",
+  "Lĩnh vực": "Đăng ký, quản lý cư trú",
+  "Trình tự thực hiện": "Bước 1: Cá nhân, tổ chức chuẩn bị hồ sơ theo quy định của pháp luật. Bước 2: Cá nhân, tổ chức nộp hồ sơ tại Công an cấp xã. Bước 3: Khi tiếp nhận hồ sơ điều chỉnh thông tin về cư trú trong Cơ sở dữ liệu về cư trú, cơ quan đăng ký cư trú kiểm tra tính pháp lý và nội dung hồ sơ: Trường hợp hồ sơ đã đầy đủ, hợp lệ thì tiếp nhận hồ sơ và cấp Phiếu tiếp nhận hồ sơ và hẹn trả kết quả (mẫu CT04 ban hành kèm theo Thông tư số 66/2023/TT-BCA) cho người đăng ký; Trường hợp hồ sơ đủ điều kiện nhưng chưa đủ hồ sơ thì hướng dẫn bổ sung, hoàn thiện và cấp Phiếu hướng dẫn bổ sung, hoàn thiện hồ sơ (mẫu CT05 ban hành kèm theo Thông tư số 66/2023/TT-BCA) cho người đăng ký; Trường hợp hồ sơ không đủ điều kiện thì từ chối và cấp Phiếu từ chối tiếp nhận, giải quyết hồ sơ (mẫu CT06 ban hành kèm theo Thông tư số 66/2023/TT-BCA) cho người đăng ký. Bước 4: Căn cứ theo ngày hẹn trên Phiếu tiếp nhận hồ sơ và hẹn trả kết quả để nhận thông báo kết quả giải quyết thủ tục đăng ký cư trú (nếu có).",
+  "Cách thức thực hiện": "Trực tiếp, 03 Ngày làm việc (Phí: 0 Đồng, Nộp hồ sơ trực tiếp tại Công an cấp xã. Thời gian tiếp nhận hồ sơ: Giờ hành chính các ngày làm việc từ thứ 2 đến thứ 6 và sáng thứ 7 hàng tuần (trừ các ngày nghỉ lễ, tết theo quy định của pháp luật). ); Trực tuyến, 03 Ngày làm việc (Phí: 0 Đồng, Nộp hồ sơ trực tuyến qua các cổng cung cấp dịch vụ công trực tuyến như: Trực tuyến qua Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an, ứng dụng VNeID hoặc dịch vụ công trực tuyến khác theo quy định của pháp luật. Thời gian tiếp nhận hồ sơ: Giờ hành chính các ngày làm việc từ thứ 2 đến thứ 6 và sáng thứ 7 hàng tuần (trừ các ngày nghỉ lễ, tết theo quy định của pháp luật). )",
+  "Thành phần hồ sơ": "Bao gồm -Tờ khai thay đổi thông tin cư trú (Mẫu CT01 ban hành kèm theo Thông tư số 66/2023/TT-BCA);, Bản chính: 1 Bản sao: 0; Giấy tờ, tài liệu chứng minh việc điều chỉnh thông tin trừ trường hợp đã có thông tin về sự thay đổi trong Cơ sở dữ liệu hộ tịch điện tử thì công dân không phải xuất trình giấy tờ chứng minh, Bản chính: 0 Bản sao: 0;",
+  "Đối tượng thực hiện": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã",
+  "Cơ quan thực hiện": "Công an Xã",
+  "Địa chỉ tiếp nhận HS": "Không có thông tin",
+  "Kết quả thực hiện": "Cập nhật thông tin trong Cơ sở dữ liệu quốc gia về dân cư, Thông báo kết quả giải quyết thủ tục về cư trú, hủy bỏ thủ tục về cư trú, Cập nhật thông tin trong Cơ sở dữ liệu về cư trú, Phiếu từ chối tiếp nhận, giải quyết hồ sơ (lĩnh vực cư trú)",
+  "Căn cứ pháp lý": "Luật 68/2020/QH14; Thông tư 55/2021/TT-BCA; Thông tư 56/2021/TT-BCA; Thông tư 57/2021/TT-BCA; 17-11-2023; Thông tư số 75/2022/TT-BTC của Bộ Tài chính: Quy định mức thu, chế độ thu, nộp và quản lý lệ phí đăng ký cư trú, 22-12-2022",
+  "Yêu cầu, điều kiện thực hiện": "Không",
+  "type": "tthc",
+  "metadata": {
+    "url": "https://dichvucong.gov.vn/p/home/dvc-tthc-thu-tuc-hanh-chinh-chi-tiet.html?ma_thu_tuc=273019"
+  }
+}
